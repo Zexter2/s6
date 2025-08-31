@@ -1,4 +1,3 @@
-<!-- Updated Series Six Requirements Display -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
 <style>
     body {
@@ -200,3 +199,5 @@
         document.getElementById('checkBtn').addEventListener('click', checkWallet);
     });
 </script>
+
+
